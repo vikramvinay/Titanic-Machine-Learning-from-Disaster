@@ -1,4 +1,9 @@
 # Titanic-Machine-Learning-from-Disaster
+
+![](http://media.giphy.com/media/1Nk9bIidJVTy0/giphy.gif)
+
+
+
 Explains how to begin with kaggle very first time .
 
 
